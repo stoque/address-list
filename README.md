@@ -1,1 +1,1 @@
-# 👨‍🔬 *Lab* A simple React project to studies
+# 👨‍🔬 **Lab** - A simple React project to studies
